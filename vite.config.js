@@ -6,3 +6,9 @@ export default defineConfig({
   plugins: [react()],
   base:"/EchoLearn",
 })
+/*
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/nahul100/EchoLearn.git
+git push -u origin master
+*/

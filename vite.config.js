@@ -8,7 +8,7 @@ export default defineConfig({
 })
 /*
 git commit -m "first commit"
-git branch -M master
+git branch -M main
 git remote add origin https://github.com/nahul100/EchoLearn.git
-git push -u origin master
+git push -u origin main
 */
